@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @besh4771
-- 👀 I’m interested in software engineering and data science
+- 👀 I’m a junior software engineer and data science student
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on software development projects
 - 📫 How to reach me benjaminokumu12@gmail.com
