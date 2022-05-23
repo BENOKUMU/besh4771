@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Benjamin
 - 👀 I’m a junior software engineer and data science student
 - 🌱 I’m currently learning software engineering and machine learning
-- 💞️ I’m looking to collaborate on software development projects
+- 💞️ I’m currently looking for a attachment
 - 📫 How to reach me benjaminokumu12@gmail.com
 
 <!---
